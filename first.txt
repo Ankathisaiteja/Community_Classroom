@@ -1,1 +1,2 @@
 Hi welcome to the Greeks For Greeks ...!!!
+This is the modified version of git to be followed
